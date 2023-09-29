@@ -12,3 +12,4 @@ profile.yaml
 uiua.tmLanguage.json
 !examples/*.ua
 .vscode
+result
